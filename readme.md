@@ -35,6 +35,10 @@ The project includes the Django admin panel for easy management of data. You can
 ## Run/start app
 python manage.py runserver
 
+
+## home
+Contains all information about view, apps and models.
+
 ## Acess the app at
 http://localhost:8000/
 
